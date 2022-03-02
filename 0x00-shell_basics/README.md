@@ -1,3 +1,3 @@
 SOME Shell commands to be checked
-1- Display current working directory
-2- Display the content of current directory
+0- Display current working directory
+1- Display the content of current directory
