@@ -14,3 +14,4 @@
 12- Print the type of the file named iamafile
 13- Create a symbolic link to /bin/ls
 14- Copy HTML files
+15- Move file uppercase beginning
