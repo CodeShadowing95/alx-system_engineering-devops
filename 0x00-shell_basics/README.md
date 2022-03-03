@@ -9,3 +9,4 @@
 7- Move the file Betty from /tmp to /tmp/my_first_directory
 8- Delete the file Betty
 9- Delete the directory my_first_directory
+10- Back to the previous working directory
