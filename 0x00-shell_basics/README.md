@@ -17,3 +17,4 @@
 15- Move file uppercase beginning
 16- Clean Emacs
 17- Create a tree: mkdir -p dir1/dir2/dir3
+18- List files and directories separated by commas
