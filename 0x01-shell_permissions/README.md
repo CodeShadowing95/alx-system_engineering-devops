@@ -8,3 +8,5 @@
 6- Multiple permissions
 7- Add execution permission to owner, group owner and other users
 8- Set specified permission
+9- Set specified mode to a file
+10- Set the mode of a file to another file
