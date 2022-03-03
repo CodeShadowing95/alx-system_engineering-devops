@@ -8,3 +8,4 @@
 6- Create a directory in /tmp directory
 7- Move the file Betty from /tmp to /tmp/my_first_directory
 8- Delete the file Betty
+9- Delete the directory my_first_directory
