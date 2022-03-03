@@ -12,3 +12,4 @@
 10- Back to the previous working directory
 11- Lists
 12- Print the type of the file named iamafile
+13- Create a symbolic link to /bin/ls
