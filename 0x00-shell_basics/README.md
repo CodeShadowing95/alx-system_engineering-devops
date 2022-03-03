@@ -10,3 +10,4 @@
 8- Delete the file Betty
 9- Delete the directory my_first_directory
 10- Back to the previous working directory
+11- Lists
