@@ -10,3 +10,4 @@
 8- Set specified permission
 9- Set specified mode to a file
 10- Set the mode of a file to another file
+11- Directories permissions
