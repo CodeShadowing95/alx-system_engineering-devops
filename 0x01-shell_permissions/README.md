@@ -11,3 +11,9 @@
 9- Set specified mode to a file
 10- Set the mode of a file to another file
 11- Directories permissions
+12- Create directory with permissions
+13- Change the group owner to school for a the file hello
+14- Change owner to vincent and group to staff for all the files and directories
+15- Change the owner and group owner of a symbolic link to another owner and group owner
+16- Change owner of a file only if the file is owned by a user
+17- Play the Star Wars IV episode
