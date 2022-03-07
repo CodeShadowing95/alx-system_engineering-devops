@@ -9,3 +9,4 @@
 8- Script that writes into a file the result of the command ls -la
 9- Duplicate the last line of the file iacta
 10- Script that deletes all the regular files and subfolders of the current directory with the .js extension
+11- Count the number of directories and subdirectories in the current directory
