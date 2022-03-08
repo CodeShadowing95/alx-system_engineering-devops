@@ -15,4 +15,4 @@
 14- Display lines containing the pattern "root" from /etc/passwd
 15- Display the number of lines that contains the pattern "bin" in /etc/passwd
 16- Display the lines containing the pattern "root" and 3 lines after them in /etc/passwd
-17- 
+17- Display all the lines in /etc/passwd that do not contain the pattern "bin" 
