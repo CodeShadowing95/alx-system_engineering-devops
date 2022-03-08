@@ -13,3 +13,4 @@
 12- Display the 10 newest files
 13- Take a list of words as input and prints words that appears exactly once
 14- Display lines containing the pattern "root" from /etc/passwd
+15- Display the number of lines that contains the pattern "bin" in /etc/passwd
