@@ -15,3 +15,4 @@
 14- Convert a number from base 10 to base 16
 15- Encode and decode text using rot 13 encryption
 16- Print every other line from the input, starting with the first line
+17- Add the 2 numbers stored in the env. variables WATER and STIR and print the result
